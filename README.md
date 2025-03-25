@@ -1,1 +1,1 @@
-This a "Simple text editor" project built by RPA college BCA 2023-24 batch students 
+This a "SIMPLE TEXT EDITOR " project built by 2nd year BCA 2023-24 batch students 
